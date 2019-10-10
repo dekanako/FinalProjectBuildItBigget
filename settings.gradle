@@ -1,0 +1,2 @@
+include ':app', ':backend',':JokesProviderLibrary', ':jokesdisplaylibrary', ':jokesServerClientlib'
+rootProject.name='FinalProject'
